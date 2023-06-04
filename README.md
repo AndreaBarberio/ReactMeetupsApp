@@ -20,11 +20,3 @@ The Meetup App is a mobile application that allows users to discover and join va
 2. Install the required dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Open the app in your browser: `http://localhost:3000`
-
-## Contributing
-
-Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue on the GitHub repository. Feel free to submit pull requests with improvements or additional features.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as needed.
